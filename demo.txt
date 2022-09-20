@@ -1,4 +1,2 @@
 This is demo code for 23july 
-OOPs
-String 
-Exception
+
